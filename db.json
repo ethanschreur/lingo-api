@@ -1,0 +1,158 @@
+{
+    "albanian": {
+        "code": "alb"
+      },
+    "arabic": {
+        "code": "ara"
+      },
+    "armenian": {
+      "code": "arm"
+    },
+    "azerbaijani": {
+      "code": "aze"
+    },
+    "belarusian": {
+      "code": "bel"
+    },
+    "bosnian": {
+      "code": "bos"
+    },
+    "bulgarian": {
+      "code": "bul"
+    },
+    "cape verdean": {
+      "code": "cap"
+    },
+    "catalan": {
+      "code": "cat"
+    },
+    "croatian": {
+      "code": "hrv"
+    },
+    "czech": {
+      "code": "cze"
+    },
+    "danish": {
+      "code": "dan"
+    },
+    "dutch": {
+      "code": "dut"
+    },
+    "english": {
+      "code": "eng"
+    },
+    "estonian": {
+      "code": "est"
+    },
+    "filipino": {
+      "code": "fil"
+    },
+    "finnish": {
+      "code": "fin"
+    },
+    "french": {
+      "code": "fre"
+    },
+    "german": {
+      "code": "ger"
+    },
+    "greek": {
+      "code": "gre"
+    },
+    "hebrew": {
+      "code": "heb"
+    },
+    "hindi": {
+      "code": "hin"
+    },
+    "hungarian": {
+      "code": "hun"
+    },
+    "icelandic": {
+      "code": "ice"
+    },
+    "indonesian": {
+      "code": "ind"
+    },
+    "italian": {
+      "code": "ita"
+    },
+    "kazakh": {
+      "code": "kaz"
+    },
+    "kurdish": {
+      "code": "kur"
+    },
+    "latin": {
+      "code": "lat"
+    },
+    "latvian": {
+      "code": "lav"
+    },
+    "lithuanian": {
+      "code": "lit"
+    },
+    "macedonian": {
+      "code": "mac"
+    },
+    "malay": {
+      "code": "mal"
+    },
+    "neapolitan": {
+      "code": "nap"
+    },
+    "norwegian": {
+      "code": "nor"
+    },
+    "persian": {
+      "code": "per"
+    },
+    "polish": {
+      "code": "pol"
+    },
+    "portuguese": {
+      "code": "por"
+    },
+    "punjabi": {
+      "code": "pan"
+    },
+    "romanian": {
+      "code": "rum"
+    },
+    "russian": {
+      "code": "rus"
+    },
+    "serbian": {
+      "code": "srp"
+    },
+    "slovak": {
+      "code": "slo"
+    },
+    "slovenian": {
+      "code": "slv"
+    },
+    "spanish": {
+      "code": "spa"
+    },
+    "swedish": {
+      "code": "swe"
+    },
+    "tatar": {
+      "code": "tat"
+    },
+    "thai": {
+      "code": "tha"
+    },
+    "turkish": {
+      "code": "tur"
+    },
+    "ukrainian": {
+      "code": "ukr"
+    },
+    "uzbek": {
+      "code": "uzb"
+    },
+    "vietnamese": {
+      "code": "vie"
+    }
+  }
